@@ -57,4 +57,4 @@ To become a skilled developer in **AI/ML or Software Development**, and build im
 
 ###  Fun Fact
 
-I believe consistency > perfection — learning something new every day 🚀
+I believe consistency > perfection — learning something new every day!
