@@ -7,41 +7,41 @@ I enjoy learning by doing, experimenting with models, and turning concepts into 
 
 ---
 
-### 🚀 What I'm Working On
+###  What I'm Working On
 
-🔹 Mini Project: Infrared Pedestrian Detection  
+ Mini Project: Infrared Pedestrian Detection  
 - Training models to detect humans using thermal datasets  
 - Working with YOLOv8 for real-time detection  
 - Debugging and improving model performance  
 
-🔹 Skill Development  
+ Skill Development  
 - Strengthening Python for AI/ML  
 - Exploring deep learning concepts step by step  
 - Practicing Git & GitHub workflows  
 
 ---
 
-### 🛠️ My Technical Toolkit
+###  My Technical Toolkit
 
-💻 Languages:  
+ Languages:  
 - Python  
 - C  
 - Java  
 - HTML  
 
-🤖 AI/ML & Tools:  
+ AI/ML & Tools:  
 - PyTorch (beginner)  
 - Ultralytics YOLOv8  
 - OpenCV  
 - Kaggle (for GPU training)  
 
-🔧 Tools:  
+ Tools:  
 - Git & GitHub  
 - VS Code  
 
 ---
 
-### 🌱 Currently Learning
+###  Currently Learning
 
 - Deep Learning fundamentals  
 - Model training & debugging  
@@ -49,12 +49,12 @@ I enjoy learning by doing, experimenting with models, and turning concepts into 
 
 ---
 
-### 🎯 Goal
+###  Goal
 
 To become a skilled developer in **AI/ML or Software Development**, and build impactful real-world projects.
 
 ---
 
-### 📌 Fun Fact
+###  Fun Fact
 
 I believe consistency > perfection — learning something new every day 🚀
