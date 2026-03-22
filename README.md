@@ -17,7 +17,10 @@ I enjoy learning by doing, experimenting with models, and turning concepts into 
  Skill Development  
 - Strengthening Python for AI/ML  
 - Exploring deep learning concepts step by step  
-- Practicing Git & GitHub workflows  
+- Practicing Git & GitHub workflows
+- 
+Ongoing Project: Insta-AI-Detector
+
 
 ---
 
