@@ -31,6 +31,8 @@ Ongoing Project: Insta-AI-Detector
 - C  
 - Java  
 - HTML  
+- Javascript
+- CSS
 
  AI/ML & Tools:  
 - PyTorch (beginner)  
