@@ -50,7 +50,8 @@ Ongoing Project: Insta-AI-Detector
 
 - Deep Learning fundamentals  
 - Model training & debugging  
-- Real-world computer vision applications  
+- Real-world computer vision applications
+- cybersecurity fundamentals
 
 ---
 
