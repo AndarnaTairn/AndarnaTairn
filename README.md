@@ -97,14 +97,6 @@ Built a Retrieval-Augmented Generation chatbot using ChromaDB, Sentence Transfor
 
 ---
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndarnaTairn\&show_icons=true\&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AndarnaTairn\&layout=compact\&theme=github_dark)
-
----
-
 ## Connect With Me
 
 * GitHub: https://github.com/AndarnaTairn
