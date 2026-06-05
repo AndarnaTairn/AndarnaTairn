@@ -1,43 +1,33 @@
 # Hi, I'm Sabana 👋
 
-🎓 4th Year B.Tech Computer Science Student | Kerala, India
+🎓 Third-Year B.Tech Computer Science Student
+📍 Kerala, India
 
-I'm an aspiring Software Engineer with a growing interest in Artificial Intelligence, Machine Learning, and Full-Stack Development. I enjoy learning through hands-on projects, exploring new technologies, and strengthening my problem-solving skills through coding and real-world applications.
-
----
-
-## 🚀 What I'm Working On
-
-### Artificial Intelligence & Machine Learning
-
-* Learning machine learning fundamentals and model development
-* Exploring computer vision and AI-powered applications
-* Building practical projects to strengthen my understanding of AI concepts
-
-### Software Development
-
-* Developing web applications using modern technologies
-* Practicing clean code and software engineering principles
-* Building projects to improve my development skills
-
-### Problem Solving
-
-* Strengthening Data Structures and Algorithms (DSA)
-* Solving coding problems regularly
-* Improving logical thinking and programming efficiency
+I am a Computer Science student with interests in Artificial Intelligence, Machine Learning, Computer Vision, Cybersecurity, and Software Development. I enjoy building practical applications, exploring emerging technologies, and solving real-world problems through technology.
 
 ---
 
-## 💻 Technical Skills
+## About Me
 
-### Languages
+*  B.Tech Computer Science Engineering Student
+*  Interested in Artificial Intelligence and Machine Learning
+*  Exploring Computer Vision and Intelligent Systems
+*  Learning Cybersecurity and Ethical Hacking
+*  Building Web Applications and Developer Tools
+*  State Meet Athlete
+
+---
+
+## Technical Skills
+
+### Programming Languages
 
 * Python
 * Java
 * C
+* JavaScript
 * HTML
 * CSS
-* JavaScript
 
 ### Core Computer Science
 
@@ -46,81 +36,80 @@ I'm an aspiring Software Engineer with a growing interest in Artificial Intellig
 * Database Management Systems
 * Computer Networks
 * Software Engineering
+* Digital Image Processing
 
-### AI & Development
+### AI & Machine Learning
 
-* Python (Intermediate)
-* Machine Learning (Learning)
-* OpenCV (Beginner)
-* Basic Data Analysis
-* Linux(Basics)
+* OpenCV
+* YOLO
+* RAG Systems
+* ChromaDB
+* Sentence Transformers
+* Computer Vision
 
-### Tools & Platforms
+### Cybersecurity
+
+* Ethical Hacking Fundamentals
+* Web Security Basics
+* Network Security Concepts
+
+### Tools & Technologies
 
 * Git & GitHub
-* VS Code
+* React
+* FastAPI
+* Streamlit
 * MySQL
-* Linux (Basic)
-* Canva
-* Latex overleaf
+* VS Code
 
 ---
 
-## 📚 Currently Learning
+## Featured Projects
 
-* Data Structures & Algorithms
-* Machine Learning Fundamentals
-* Computer Networks
+### Infrared Pedestrian Detection
+
+Developed a computer vision pipeline for pedestrian detection in low-visibility environments using synthetic thermal image generation and YOLO-based detection.
+
+**Tech Stack:** Python, GANs, YOLOv8, OpenCV
+
+### PulseAgent-AI
+
+Frontend diagnostics platform for detecting runtime bottlenecks and simulating recoverable optimizations.
+
+**Tech Stack:** JavaScript
+
+### RAG Chatbot
+
+Built a Retrieval-Augmented Generation chatbot using ChromaDB, Sentence Transformers, and Streamlit for conversational retrieval and persona extraction.
+
+**Tech Stack:** Python, ChromaDB, Streamlit
+
+---
+
+## Currently Learning
+
+* Machine Learning
+* Advanced Computer Vision
+* Ethical Hacking & Cybersecurity
+* Full-Stack Development
 * Software Engineering
-* Web Development
 * German Language
-* Ethical Hacking
 
 ---
 
-## 🏆 Achievements
+## GitHub Stats
 
-* State Meet Athlete
-* Computer Science Engineering Student
-* Active participant in technical learning and project development
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndarnaTairn\&show_icons=true\&theme=github_dark)
 
----
-
-## 📂 Featured Projects
-
-### Portfolio Website
-
-A personal portfolio website showcasing my skills, projects, and learning journey.
-
-### Web Development Projects
-
-Responsive websites and frontend projects built using HTML, CSS, and JavaScript.
-
-### AI & ML Practice Projects
-
-Hands-on machine learning and data analysis projects completed as part of my learning journey.
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AndarnaTairn\&layout=compact\&theme=github_dark)
 
 ---
 
+## Connect With Me
 
-## 🌱 Current Goals
-
-* Secure valuable internship opportunities
-* Build impactful real-world projects
-* Strengthen AI/ML and software development skills
-* Contribute to open-source projects
-* Grow into a skilled Software Engineer
+* GitHub: https://github.com/AndarnaTairn
+* LinkedIn: https://www.linkedin.com/in/s-sabana
 
 ---
 
-## 📫 Connect With Me
-
-* LinkedIn: www.linkedin.com/in/s-sabana
-* Email: bindhunathsabana123@gmail.com
-* Location: Kerala, India
-
----
-
-### Fun Fact
-
-I balance my passion for technology with athletics and believe that consistency is the key to growth—whether in coding, learning, or sports.
+*"Learning, building, and improving through every project."*
